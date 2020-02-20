@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokus.Android", "Pokus\Pokus.Android\Pokus.Android.csproj", "{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokus", "Pokus\Pokus\Pokus.csproj", "{DA1FCBE2-1189-46F2-92BB-A61852B5F278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C020F34C-C9A1-4B9D-8C0A-6FB94489652B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DA1FCBE2-1189-46F2-92BB-A61852B5F278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1FCBE2-1189-46F2-92BB-A61852B5F278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1FCBE2-1189-46F2-92BB-A61852B5F278}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA1FCBE2-1189-46F2-92BB-A61852B5F278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1FCBE2-1189-46F2-92BB-A61852B5F278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1FCBE2-1189-46F2-92BB-A61852B5F278}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB95C81B-81A3-4D15-8926-BFD4F833D8FC}
+	EndGlobalSection
+EndGlobal
