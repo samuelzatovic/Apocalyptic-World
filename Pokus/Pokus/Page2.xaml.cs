@@ -10,15 +10,11 @@ using Xamarin.Forms.Xaml;
 namespace Pokus
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Page1 : ContentPage
+    public partial class Page2 : ContentPage
     {
-        public Page1()
+        public Page2()
         {
             InitializeComponent();
-        }
-        private void Button_Clicked(object sender, EventArgs e)
-        {
-            Navigation.PushAsync(new Page2());
         }
     }
 }
